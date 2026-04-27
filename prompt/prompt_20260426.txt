@@ -1,0 +1,18 @@
+I work at an e-commerce apparel company. I'm preparing for an executive review of website performance. 
+Our goal is to increase revenue in Q3. 
+What are the top 5 metrics I should consider for my presentation?
+
+What questions might our leadership team ask about conversion rate
+
+How do I export website traffic data from Google Analytics so I can analyze it in a Google Sheet?
+
+
+---------------------------
+
+Extract the reviews from this screenshot and turn them into a table with the following columns 
+- date
+- text
+- number of stars
+
+=AI("Analyze the customer feedback and classify it into Positive, Neutral, or Negative", B2)
+=AI("Categorize the following comment. Select only one category from these options: Size, Color, Quality, Customer Service, Shipping, Price, or Other.", B2)
