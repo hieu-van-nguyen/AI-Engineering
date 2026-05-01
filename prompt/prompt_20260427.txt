@@ -1,0 +1,20 @@
+This is data from my e-commerce website. Provide the total purchase revenue and total number of transactions.
+
+What is the average revenue per session based on channel, regardless of device category?
+
+You are an experienced data analyst. For an e-commerce site, why might the average revenue persession from email
+be higher than from Other traffic sources
+
+Create a bar chart that shows average revenue per session channel.
+
+
+--------------------
+
+I run an e-commerce business selling trousers. My main goal is to increase my profit this year. 
+Acting as a business advisor, analyze my sales data and give me a list of the 
+3 most important changes I can make that would have the biggest impact on my goal.
+
+Based on those insights and my data, create an interactive profit calculator for my trouser business. 
+Let me adjust sliders for each change to show their effect. 
+
+Can you give this profit calculator more of a fashion theme?

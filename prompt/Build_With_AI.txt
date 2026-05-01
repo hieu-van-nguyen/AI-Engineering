@@ -1,0 +1,30 @@
+I want an app called The Tiebreaker that helps me make decisions. 
+I want to provide a decision that I need to make, and I'd love AI's help in showing me different pros and cons. 
+This can be through a pros and cons list, a comparison table, or even a SWOT analysis.
+
+Should I offer my software for free with paid features, or charge a flat $20/month premium plan?
+
+-------------------------------
+
+I want an app called the Brand builder app that lets me describe a product and imagine it across a bunch of different mediums, 
+this could include a billboard, a newspaper, and a social post. Maintain product consistency between each shot. 
+I do not want to see people in any of the images. You must use the Nano-Banana model for these images.
+
+Augmented Reality AI glasses
+
+-------------------------------
+
+I want to make an interactive dashboard that allows me to visualize data in many different ways. 
+I am going to provide the data for you, so please set up the dashboard with it accurately.
+
+Let's make these cards white
+
+-------------------------------
+
+I want an app that helps me craft a meeting agenda from any doc that I upload. This could be a docx file or a markdown file,
+and the present that agenda to me with a summaries of each topic, action items, stakeholders, and how to time each section
+when I specify total meeting time
+
+Add a button that copies all the content so I can paste it into a spreadsheet.
+
+Change the color scheme of the app to use shades of blue.
