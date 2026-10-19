@@ -1,0 +1,7 @@
+# Day N: <focus>
+
+- Time spent:
+- What I did:
+- What broke / what confused me:
+- What I learned (1–3 bullets):
+- Tomorrow's first step:

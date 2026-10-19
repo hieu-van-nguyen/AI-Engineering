@@ -1,0 +1,11 @@
+[project]
+name = "ai-engineering"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "jupyter>=1.1.1",
+    "pydantic>=2.14.1",
+    "pytest>=9.1.1",
+    "python-dotenv>=1.2.4",
+]
