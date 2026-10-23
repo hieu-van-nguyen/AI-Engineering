@@ -1,0 +1,21 @@
+{
+  "name": "sample01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anthropic_eg_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gecgithub01.walmart.com/h0n035t/ai-engineering-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
+    "dotenv": "^18.0.8"
+  }
+}
