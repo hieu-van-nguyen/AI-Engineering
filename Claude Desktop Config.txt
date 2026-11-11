@@ -1,0 +1,14 @@
+ollama cp qwen2.5-coder:7b anthropic/claude-4-5-sonnet
+ollama cp gemma4:latest anthropic/claude-4-5-sonnet
+
+
+Model ID	anthropic/claude-3-5-sonnet	Satisfies the anthropic/claude-* prefix requirement
+Display name	Qwen 3 Local	Friendly label shown in your app picker
+Claude model behind this ID	claude-3-5-sonnet	Maps local capabilities and context limits
+
+Base URL: http://127.0.0.1:11434
+Credential Kind: Static API key
+API Key: ollama
+
+
+ollama rm <model_name>
