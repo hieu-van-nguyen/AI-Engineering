@@ -3,8 +3,8 @@
 | Day     | Status | Notes               |
 | :------ | :----: | :------------------ |
 | Day 1   | [ v ]  | Completed the setup |
-| Day 2   |  [ ]   |                     |
-| Day 3   |  [ ]   |                     |
+| Day 2   | [  ]  |  |
+| Day 3   | [ v ]  | Async fetch, semaphore, retry |
 | Day 4   |  [ ]   |                     |
 | Day 5   |  [ ]   |                     |
 | Day 6   |  [ ]   |                     |
