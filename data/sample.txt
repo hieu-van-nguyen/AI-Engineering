@@ -1,0 +1,4 @@
+line 1: hello
+line 2: pathlib
+line 3: context managers
+line 4: appended with open()

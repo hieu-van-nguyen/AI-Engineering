@@ -3,7 +3,7 @@
 | Day     | Status | Notes               |
 | :------ | :----: | :------------------ |
 | Day 1   | [ v ]  | Completed the setup |
-| Day 2   | [  ]  |  |
+| Day 2   | [ v ]  | python refresh |
 | Day 3   | [ v ]  | Async fetch, semaphore, retry |
 | Day 4   |  [ ]   |                     |
 | Day 5   |  [ ]   |                     |
